@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Taller1 test suite" verbose="1">
+	<test name="run">	
+		<classes>
+			<class name="com.globant.web.tests.Taller1"></class>
+		</classes>
+	</test>
+</suite>
