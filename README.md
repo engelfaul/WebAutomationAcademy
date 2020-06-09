@@ -4,7 +4,7 @@ INSTALL FRAMEWORk
 2. mvn clean install -DskipTests
 3. mvn eclipse:eclipse or mvn idea:idea
 
-Create new branch
+Create new branch.
 
 3. git checkout -b "name-branch"
 4. git add .
